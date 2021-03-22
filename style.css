@@ -1,0 +1,32 @@
+
+    h3{
+        font-size:30px;
+        color:#cea21e;
+    }
+
+    p{
+        font-size:22px;
+        color:white;
+        style="font-family:verdana"
+    }
+
+    a{
+       font-size:35px;
+       color:#fca103;
+
+   }
+
+    #mainContent{
+        width:100%;
+        margin: 0 auto;
+    }
+
+    .bg1{
+        background-color:#20344f;
+        padding:15px;
+    }
+
+    .bg2{
+        background-color:#516176;
+        padding:15px;
+    }
